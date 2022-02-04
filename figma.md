@@ -1,13 +1,13 @@
-#Figma Tips
+# Figma Tips
 
 ## Selection
 * selecting a parent \
-  `Shift+Return`
+  `Shift+Return` \
 * selecting a child \
-  `Return`
+  `Return` \
 * switching between child elements of a selected parent \
-  `Tab`
+  `Tab` \
 
 ## Panel
 * toggle between design and prototype panels \
- `Shift+e`
+ `Shift+e` \

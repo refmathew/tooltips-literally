@@ -1,11 +1,11 @@
 # Figma Tips, Tricks and Shortcuts
 
-## Tips and Tricks
+### Tips and Tricks
 * __Show distance between two elements.__\
   Click an element then press `Alt` while hovering other elements.
 
-## Shortcuts
-### Essentials
+### Shortcuts
+#### Essentials
 - toggle UI\
   `Control+\`
 - toggle quick actions menu\
@@ -13,11 +13,11 @@
 - change color based off of a color on the editor\
   `i`
 
-### Zoom
+#### Zoom
 - zoom to selection\
   `Shift+2`
 
-### Selection
+#### Selection
 - selecting a parent\
   `Shift+Return`
 - selecting a child\
@@ -25,10 +25,10 @@
 - switching between child elements of a selected parent\
   `Tab`
 
-### Panel
+#### Panel
 - toggle between design and prototype panels\
  `Shift+e`
 
-### Comments
+#### Comments
 - toggle comments\
  `Shift+c`

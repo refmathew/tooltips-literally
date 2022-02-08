@@ -1,7 +1,7 @@
 # Figma Tips, Tricks and Shortcuts
 
 ## Tips and Tricks
-* __Show distance between two elements.__
+* __Show distance between two elements.__\
   Click an element then press `Alt` while hovering other elements.
 
 ## Shortcuts

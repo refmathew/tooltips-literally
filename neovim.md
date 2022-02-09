@@ -1,7 +1,7 @@
 # Neovim/Vim tips, tricks, shortcuts & resources
 
 ## Tips & Tricks
-* Just like in VSCode, you can [fold](#folding) blocks and even _lines_ of code in neovim. \
+* Just like in VSCode, you can [fold](#folding) blocks and even _lines_ of code in neovim.
 
 ## Shortcuts
 #### Folding
